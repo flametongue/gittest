@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-	int i = 1;
+    int i = 1;
 	printf("====%d===\n",i);
 	printf("====%d===\n",&i);
 	printf("====%x===\n",&i);
@@ -10,6 +10,6 @@ int main ()
 	printf("====%d===\n",&j);
 	printf("====%x===\n",&j);
 	
-	printf("=======\n");
+	printf("===add====\n");
 	return 0;
 }

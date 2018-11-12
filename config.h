@@ -298,3 +298,5 @@
 #define NAND_HW_READ_RETRY_STPE         (0)
 #define NAND_SOFTBIT_READ_RETRY_STPE    (6)
 
+#define nouse
+
